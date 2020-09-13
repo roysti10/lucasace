@@ -1,6 +1,7 @@
 # Royston E Tauro
 
 Connect with me at:
+[here](https://www.linkedin.com/in/royston-tauro-516b6a1a6/)
 
 <!--
 **lucasace/lucasace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
