@@ -16,15 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on a Computer Vision Project
-
 🌱 I’m currently learning Generative Adversarial Networks
 
 👯 I’m looking to collaborate on any Computer Vision Projects
-
-🤔 I’m looking for help with Natural Language Processing
-
-💬 Ask me about Machine Learning Topics
 
 📫 How to reach me: Send in a message on [Linkedin](https://www.linkedin.com/in/royston-tauro-516b6a1a6/) or reach me on gmail at tauro.royston@gmail.com
 
