@@ -5,7 +5,7 @@
 
 Currently pursuing B.Tech in Computer Science at PES University Bangalore
 
-Intrested in Deep Learning, Computer Vision and any developer related projects
+Intrested in basically any developer related projects.
 
 Have a Look at my repos and maybe contribute as well! :smiley:
 
