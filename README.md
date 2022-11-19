@@ -1,15 +1,19 @@
-# Royston E Tauro
+<!-- Social Section -->
+<p align="center">
+  <i>Hey! I'm Royston, Take a look at my repositories and let's get in touch!</i>
 
-[<img src="https://1000logos.net/wp-content/uploads/2017/03/Color-of-the-LinkedIn-Logo.jpg" width = "75">](https://www.linkedin.com/in/royston-tauro-516b6a1a6/)
-[<img src="https://static01.nyt.com/images/2014/08/10/magazine/10wmt/10wmt-superJumbo-v4.jpg" width ="75">](https://twitter.com/roysti10)
+<p align="center">
+  <a href= "https://github.com/lucasace/">
+    <img src="https://img.icons8.com/material-outlined/30/689d6a/source-code.png"/>
+  </a>
+  <a href= "https://www.linkedin.com/in/royston-tauro-516b6a1a6/">
+    <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/>
+  </a>
+  <a href= "https://twitter.com/roysti10">
+    <img src="https://img.icons8.com/material-outlined/30/689d6a/twitter.png"/>
+  </a>  
+  <a href="mailto:tauro.royston@gmail.com">
+    <img src="https://img.icons8.com/material-outlined/30/689d6a/mail.png"/>
+  </a>
+</p>
 
-Currently pursuing B.Tech in Computer Science at PES University Bangalore
-
-Intrested in basically any developer related projects.
-
-Have a Look at my repos and maybe contribute as well! :smiley:
-
-
-📫 How to reach me: Send in a message on [Linkedin](https://www.linkedin.com/in/royston-tauro-516b6a1a6/) or reach me on gmail at tauro.royston@gmail.com
-
-[![Royston's github stats](https://github-readme-stats.vercel.app/api?username=lucasace&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
