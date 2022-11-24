@@ -17,3 +17,19 @@
   </a>
 </p>
 
+#### Recent Interests
+
+* Computer Architecture
+* Compilers
+* Systems
+
+#### Current Programming Languages
+
+<p align="left"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/rust-lang/rust-artwork/master/logo/rust-logo-64x64.png" alt="rust" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/54945757/203800550-12c00fc6-c6a2-4392-9d5c-9b6bbc9795df.png" alt="ballerina" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/>
+</p>
+
+
