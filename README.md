@@ -33,7 +33,7 @@
     <img src="https://raw.githubusercontent.com/rust-lang/rust-artwork/master/logo/rust-logo-64x64.png" alt="rust" width="40" height="40"/>
   </a>
   <a href="https://ballerina.io/" >
-    <img src="https://user-images.githubusercontent.com/54945757/203800550-12c00fc6-c6a2-4392-9d5c-9b6bbc9795df.png" alt="ballerina" width="40" height="40" />
+    <img src="https://github.com/lucasace/lucasace/assets/54945757/ec683abd-30fb-4107-90b7-4b6296b6d63f" alt="ballerina" width="40" height="40" />
   </a>
   <a href="https://www.scala-lang.org/" >
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/>
